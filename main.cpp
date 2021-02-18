@@ -15,6 +15,8 @@ int main() {
   cout << "Anna Butujeva\n";
 
    cout << "Kristina Lapinska\n";
+  
+  cout << "Diana Tureiko\n";
 
 }
 
